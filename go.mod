@@ -1,6 +1,6 @@
 module github.com/peolic/videohashes
 
-go 1.18
+go 1.22
 
 require (
 	github.com/corona10/goimagehash v1.0.3
